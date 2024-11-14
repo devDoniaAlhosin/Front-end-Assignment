@@ -22,7 +22,7 @@ Styling:
 Includes basic styling using [CSS].
 # Setup and Installation
 1. Clone the repository:
-  git clone https://github.com/username/react-challenge.git
+  git clone https://github.com/username/react-challenge.git](https://github.com/devDoniaAlhosin/Front-end-Assignment.git
 2. Navigate to the project directory:
   cd react-challenge
 # Install dependencies:
