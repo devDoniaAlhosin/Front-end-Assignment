@@ -20,3 +20,14 @@ Utilizes React's useState and useEffect hooks for data management and side effec
 Styling:
 
 Includes basic styling using [CSS].
+# Setup and Installation
+1. Clone the repository:
+  git clone https://github.com/username/react-challenge.git
+2. Navigate to the project directory:
+  cd react-challenge
+# Install dependencies:
+
+  npm install
+# Start the development server:
+  npm start
+  The application will be available at http://localhost:3000.
