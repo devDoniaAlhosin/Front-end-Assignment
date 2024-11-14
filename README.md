@@ -1,23 +1,23 @@
 # React Challenge - JSONPlaceholder Web Application
 
-Project Overview
+# Project Overview
 This project is a small React web application built as part of the Rayagate hiring process. It fetches and displays posts from the JSONPlaceholder API, showcasing my skills in working with React, managing state, handling side effects, and creating user-friendly interfaces.
 
-Features
+# Features
 Fetch Data from API:
 
 Retrieves a list of posts from the JSONPlaceholder API.
 Displays posts in a user-friendly layout.
-Post Details:
+# Post Details:
 
 On clicking a post, displays detailed information including the post title, body, and comments.
-Search Functionality:
+# Search Functionality:
 
 A search bar allows users to filter posts by title.
-State Management:
+# State Management:
 
 Utilizes React's useState and useEffect hooks for data management and side effects.
-Styling:
+# Styling:
 
 Includes basic styling using [CSS].
 # Setup and Installation
@@ -30,4 +30,4 @@ Includes basic styling using [CSS].
   npm install
 # Start the development server:
   npm start
-  The application will be available at http://localhost:3000.
+  The application will be available at http://localhost:5173.
